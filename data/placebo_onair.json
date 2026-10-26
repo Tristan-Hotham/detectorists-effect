@@ -1,0 +1,69 @@
+{
+ "metal_detecting": {
+  "real_pct": 41.2,
+  "fakes_pct": [
+   -18.1,
+   -18.6,
+   -8.2,
+   16.0,
+   12.6,
+   -1.1,
+   -7.7,
+   -22.3
+  ],
+  "share_fakes_as_big": 0.0
+ },
+ "metal_detector": {
+  "real_pct": 12.8,
+  "fakes_pct": [
+   -9.2,
+   -7.5,
+   -12.4,
+   -3.5,
+   33.5,
+   12.7,
+   -7.7,
+   -21.8
+  ],
+  "share_fakes_as_big": 0.12
+ },
+ "created": {
+  "real_pct": 16.2,
+  "fakes_pct": [
+   -7.7,
+   -14.3,
+   3.2,
+   13.1,
+   7.4,
+   5.4,
+   -19.6,
+   -10.7
+  ],
+  "share_fakes_as_big": 0.0
+ },
+ "created_md": {
+  "real_pct": 15.2,
+  "fakes_pct": [
+   -6.7,
+   -10.8,
+   1.7,
+   8.5,
+   8.7,
+   4.6,
+   -19.4,
+   -11.0
+  ],
+  "share_fakes_as_big": 0.0
+ },
+ "discovered": {
+  "real_pct": 4.4,
+  "fakes_pct": [
+   -5.1,
+   -2.7,
+   2.5,
+   8.7,
+   -13.2
+  ],
+  "share_fakes_as_big": 0.2
+ }
+}
